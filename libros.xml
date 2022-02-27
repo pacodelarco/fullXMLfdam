@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="libros.xsl"?>
-<bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D:/xampp/htdocs/1DAW/fullXML/libros.xsd">
+<bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/pacodelarco/fullXMLfdam/blob/main/libros.xsd">
 <book category="cooking">
 <title lang="en">Everyday Italian</title>
 <year>2005</year>
